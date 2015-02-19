@@ -1,10 +1,17 @@
 
 img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  float: center
 }
 
 h1 {
-font-size:150px; text: center;
+font-size:150px; text: center; Font-family:helvetica
 }
+
+p { 
+font-size:40px; text-align:center; font-family:helvetica
+}
+
+ul {
+font-size:20px; font-family:helvetica; margin-left: 150px}
+
